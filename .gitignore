@@ -50,3 +50,15 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+*.atsuo
+/Firmware/CruiseViaMedia/CruiseViaMedia.componentinfo.xml
+**/Release/*.eep
+**/Release/*.srec
+**/Release/*.mk
+**/Release/Makefile
+**/Debug/*.eep
+**/Debug/*.srec
+**/Debug/*.mk
+**/Debug/Makefile
+**/Debug/*.lss
